@@ -13,6 +13,7 @@ Original writings and quirky thoughts by me. People might like reading this once
 1.  [Replace mailing lists with bug trackers](replace-mailing-lists-with-bug-trackers.md)
 1.  [Questions for my future self](questions-for-my-future-self.md)
 1.  Learning
+    1.  [How to teach efficiently](https://github.com/cirosantilli/how-to-teach-efficiently)
     1.  [How to learn anything](how-to-learn-anything.md)
     1.  [How to become a good programmer](how-to-become-a-good-programmer.md)
     1.  [Tech motivation K12](tech-motivation-k12.md)
