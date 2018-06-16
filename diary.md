@@ -287,3 +287,7 @@ Will I ever be able to transmit this feeling to younger people?
 ## 2017-01-10 Back to England from Brazil
 
 I was sad to leave, but when I got to the Gatwick train, King's Cross, and Cambridge home, I felt really glad I was here! Maybe this wasn't a bad choice after all!
+
+## 2018-06-16 Watching Magig: The Gathering Arena on YouTube
+
+I've been watching Magic: The Gathering Arena YouTube videos to turn by brain off recently, and I ended up answering a related Stack Exchange question! https://boardgames.stackexchange.com/questions/38821/is-there-a-card-that-lets-you-put-a-card-from-outside-of-the-game-into-play/42551#42551 Funny how I answer it exactly as I answer programming questions: quoting from the official rules, and thinking about quirky effects. A friend once refered me to https://player.fm/series/goodnight-chrome which says: I will say bunch of technical mumbo jumbo to trick your brain into thinking that it is still working, but while you are actually resting. Actually, this is basically what I'm doing, by watching people play strategy games. I'm basically only interested in understanding the rules of the games, and some level of strategy, but without putting enough effort to actually get tired and really learn how to play. Until I learn enough, and get bored, and find a new game to watch a and learn the rules for. I was doing Age of Empires 2 previously. Both games I played when I was a teen, so I already knew half of the rules.

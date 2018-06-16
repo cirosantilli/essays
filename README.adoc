@@ -1,0 +1,36 @@
+= Essays
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 6
+:sectnums:
+:toc: macro
+:toclevels: 6
+:toc-title:
+
+Original writings and quirky thoughts by me. People might like reading this once I become world famous for something.
+
+toc::[]
+
+. Real events
+.. link:inspire-teenagers-for-technology.md[Inspire teenagers for technology]
+.. link:day-in-pompeii.md[A day in Pompeii]
+.. link:falun-gong-persecution.md[Falun Gong persecution]
+... link:falun-gong-persecution-pt.md[Falun Gong persecution pt]
+... link:falun-gong-persecution-zh.md[Falun Gong persecution zh]
+... link:open-sourcer-meets-b2b.md[Open Sourcer meets B2B]
+. link:people-with-my-family-name.md[People with my family name]
+. link:replace-mailing-lists-with-bug-trackers.md[Replace mailing lists with bug trackers]
+. link:questions-for-my-future-self.md[Questions for my future self]
+. Learning
+.. link:how-to-learn-anything.md[How to learn anything]
+.. link:how-to-become-a-good-programmer.md[How to become a good programmer]
+.. link:tech-motivation-k12.md[Tech motivation K12]
+. Poetic
+.. link:four-treasures-of-the-hacker.md[The Four Treasures of the Hacker]
+.. link:people-know-the-best.md[People know the best]
+.. link:quotes.md[Quotes]
+. Philosophy
+.. link:thoughts.md[Thoughts]
+.. link:my-personality.md[My personality]
