@@ -1,5 +1,7 @@
 # Thoughts
 
+The natural sciences are not just a tool to predict the future. They are a reminder that the lives that we live are mere illusions, just like Buddhists say. We know nothing about the materials that we touch every day, nor more importantly how our brain and cells work. Everything is out of our control. The natural sciences make us peek into a little of those unknowns, and blow our minds as we notice that we don't know anything. Today I've been elated by that thought.
+
 Life is too short for closed source.
 
 Molecular biology is a lot like embedded systems:
