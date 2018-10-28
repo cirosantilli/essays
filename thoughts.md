@@ -1,5 +1,9 @@
 # Thoughts
 
+Europe is becoming weak because the countries are too small, US and China companies will always eat up the best European ones: https://www.economist.com/europe/2018/10/13/europes-history-explains-why-it-will-never-produce-a-google There is only one solution: everyone must speak English. All school and university courses must be given in English. This will never happen, and Europe will continue to decay :-)
+
+Interest if formed through habit, through seeing that your peers are interested in something on a daily basis. I see that clearly in my job, where being close to people's needs inspired me to learn and do a lot of things I would never had heard of otherwise. This is why a vibrant tech community is so key to one's development, you just go along. In that sense, individual events are not very important. What truly matters is being able to see continuous interest of peers through Q&A websites, paper contributions, software contributions, etc.
+
 The natural sciences are not just a tool to predict the future. They are a reminder that the lives that we live are mere illusions, just like Buddhists say. We know nothing about the materials that we touch every day, nor more importantly how our brain and cells work. Everything is out of our control. The natural sciences make us peek into a little of those unknowns, and blow our minds as we notice that we don't know anything. Today I've been elated by that thought.
 
 Life is too short for closed source.
