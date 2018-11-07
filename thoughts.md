@@ -1,5 +1,7 @@
 # Thoughts
 
+"What you are afraid to do is a clear indication of the next thing you need to do." by https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson really resonated with me... E.g. I wanted to study Physics at university, by chickened out because I was afraid I wouldn't get a job. Later on in life, I always felt I missed the deeper physics and mathematics background, just for the beauty of it. Of course, it is impossible to say how things would have gone had I done that, and they did go really well regardless since I started programming, just I felt it took more time than necessary.
+
 Europe is becoming weak because the countries are too small, US and China companies will always eat up the best European ones: https://www.economist.com/europe/2018/10/13/europes-history-explains-why-it-will-never-produce-a-google There is only one solution: everyone must speak English. All school and university courses must be given in English. This will never happen, and Europe will continue to decay :-)
 
 Interest if formed through habit, through seeing that your peers are interested in something on a daily basis. I see that clearly in my job, where being close to people's needs inspired me to learn and do a lot of things I would never had heard of otherwise. This is why a vibrant tech community is so key to one's development, you just go along. In that sense, individual events are not very important. What truly matters is being able to see continuous interest of peers through Q&A websites, paper contributions, software contributions, etc.
