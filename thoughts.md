@@ -1,5 +1,7 @@
 # Thoughts
 
+A home is the reaction vessel of men. Like a cell, it has many subsystems: energy, waste, information. Some men come in, and more come out.
+
 "What you are afraid to do is a clear indication of the next thing you need to do." by https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson really resonated with me... E.g. I wanted to study Physics at university, by chickened out because I was afraid I wouldn't get a job. Later on in life, I always felt I missed the deeper physics and mathematics background, just for the beauty of it. Of course, it is impossible to say how things would have gone had I done that, and they did go really well regardless since I started programming, just I felt it took more time than necessary.
 
 Europe is becoming weak because the countries are too small, US and China companies will always eat up the best European ones: https://www.economist.com/europe/2018/10/13/europes-history-explains-why-it-will-never-produce-a-google There is only one solution: everyone must speak English. All school and university courses must be given in English. This will never happen, and Europe will continue to decay :-)
