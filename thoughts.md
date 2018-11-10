@@ -1,6 +1,8 @@
 # Thoughts
 
-A home is the reaction vessel of men. Like a cell, it has many subsystems: energy, waste, information. Some men come in, and more come out.
+In the physical sciences, what matters most is not what we know, but how we know it. School gets that fundamentally wrong. The method and tools are everything. And it usually comes down to how scientists managed to observe and control something very subtle in a new way.
+
+A home is the reaction vessel of men. Like a cell, it has many subsystems: energy, waste, information. Some men come in, some food comes in, and more men come out.
 
 "What you are afraid to do is a clear indication of the next thing you need to do." by https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson really resonated with me... E.g. I wanted to study Physics at university, by chickened out because I was afraid I wouldn't get a job. Later on in life, I always felt I missed the deeper physics and mathematics background, just for the beauty of it. Of course, it is impossible to say how things would have gone had I done that, and they did go really well regardless since I started programming, just I felt it took more time than necessary.
 
