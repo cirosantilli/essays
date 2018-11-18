@@ -34,3 +34,4 @@ toc::[]
 . Philosophy
 .. link:thoughts.md[Thoughts]
 .. link:my-personality.md[My personality]
+.. link:programming-languages.adoc[Programming languages]

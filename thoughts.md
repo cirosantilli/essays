@@ -1,5 +1,7 @@
 # Thoughts
 
+I love it when I'm compiling something in the evening and my cooler is making rain-like sounds. Feels like s like I'm being productive without actual effort, and reminds me of the relaxing rain sounds. And the lack of sound informs me that the compilation has finished, and the I can continue to the next step.
+
 In the physical sciences, what matters most is not what we know, but how we know it. School gets that fundamentally wrong. The method and tools are everything. And it usually comes down to how scientists managed to observe and control something very subtle in a new way.
 
 A home is the reaction vessel of men. Like a cell, it has many subsystems: energy, waste, information. Some men come in, some food comes in, and more men come out.

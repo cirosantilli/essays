@@ -1,0 +1,26 @@
+= Programming languages
+
+How I feel about various programming languages.
+
+First, I feel that there is only space for two languages at most in the world: the compiled one, and the interpreted one.
+
+For now, when I have the choice, I'll go for:
+
+* Python as the interpreted one
+* C++ for compiled
+
+I also do some Bash when I'm lazy. But if the project goes on, I sooner or later regret that choice :-)
+
+Those two are not by any means perfect from a language design point of view. I only choose them due to a pragmatic tradeoff between ecosystem and familiarity.
+
+Other languages:
+
+* C cool, but cannot make a large codebase DRY without insanity
+* Ruby: the exact same as Python, and only strong in one domain: web, while Python rules everything else, and is not bad on web either. So just kill Ruby, please.
+* JavaScript: I'm totally fine if NodeJS destroys Python and becomes the ONE scripting language to rule them all. I just don't use it much because of lacking ecosystem.
+* Java: good language, but I don't like the enterprisey ecosystem, and how closed Oracle has made the development process, and API patenting madness on Android.
+* Haskell: I tried to learn some functional stuff, but too hard. Sounds really cool though.
+* Rust: sounds cool, I would gladly replace C and C++ with it if the ecosystem ramps up.
+* Go: likely a good replacement for Python. If the ecosystem gets there, I'll gladly use it more.
+* Swift: I'm not an Apple person.
+* Tcl, Perl: I'm not old enough for that, Python killed them before I awoke to programming. Python feels less insane from my little exposure.
