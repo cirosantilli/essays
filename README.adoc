@@ -13,6 +13,8 @@ Original writings and quirky thoughts by me. People might like reading this once
 
 toc::[]
 
+== TODO move to adoc
+
 . Real events
 .. link:inspire-teenagers-for-technology.md[Inspire teenagers for technology]
 .. link:day-in-pompeii.md[A day in Pompeii]
@@ -35,3 +37,9 @@ toc::[]
 .. link:thoughts.md[Thoughts]
 .. link:my-personality.md[My personality]
 .. link:programming-languages.adoc[Programming languages]
+
+== Stack Overflow
+
+=== Stack overflow answer style guide
+
+link:stack-overflow-answer-style-guide.md[]
