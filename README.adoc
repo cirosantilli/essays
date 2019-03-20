@@ -100,3 +100,21 @@ And if yes, nothing prevents me from re-uploading on an anonymous account.
 ____
 
 https://twitter.com/cirosantilli/status/1108413211840339970
+
+Reply and unsuspend quickly followed:
+
+____
+I suspended you to get your attention. Your attitude about going to Twitter about it does not bode well with me.
+
+Feel free to have whatever you want in your GitHub repo. Just don't advertise tools to make it easier for people to circumvent the rules. As easy or as hard as it may be to circumvent them, you're handing it to people who may not be capable of doing so. It doesn't help.
+
+Don't make threats to upload on an anonymous account. Accounts created to circumvent previous warnings are not welcomed on the site.
+
+We don't need a meta thread to discuss whether it's ok to post voting fraud links in your profile and we definitely don't need to give it anymore publicity.
+
+I'll unsuspend you, now we've had this discussion.
+
+Regards,
+
+Stack Overflow Moderation Team
+____
