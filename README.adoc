@@ -40,6 +40,61 @@ toc::[]
 
 == Stack Overflow
 
-=== Stack overflow answer style guide
+=== Stack Overflow answer style guide
 
 link:stack-overflow-answer-style-guide.md[]
+
+=== Stack Overflow suspension 2019-03-20
+
+After I got a lot of attention on Hacker News https://news.ycombinator.com/item?id=19428700 my Stack Overflow account was suspended for 3 days http://web.archive.org/web/20190320163458/https://stackoverflow.com/users/895245/ciro-santilli-新疆改造中心-六四事件-法轮功 and I received a magic notification that led to a private message:
+
+____
+Hello,
+
+I'm writing in reference to your Stack Overflow account:
+
+I don't understand why you are actively promoting and assisting people to commit fraud on the site.
+
+I've removed this from your profile https://github.com/cirosantilli/stack-overflow-vote-fraud-script and do not expect you to post it around the site.
+
+I'm suspending you to gain your attention on this matter.
+
+We have temporarily suspended your account; you may return after 3 days.
+
+Regards,
+
+Stack Overflow Moderation Team
+
+To: Aaron Hall ♦;Andy ♦;Baum mit Augen ♦;Bhargav Rao ♦;Bohemian ♦;BoltClock ♦;Brad Larson ♦;ChrisF ♦;Cody Gray ♦;deceze ♦;Ed Cottrell ♦;Flexo ♦;George Stocker ♦;Jean-François Fabre ♦;Jon Clements ♦;josliber ♦;Madara Uchiha ♦;Martijn Pieters ♦;meagar ♦;Michael Myers ♦;Rob ♦;Robert Harvey ♦;Ry- ♦;Samuel Liew ♦;Undo ♦;Yvette Colomb ♦
+____
+
+My reply:
+
+____
+
+Hi mods,
+
+. https://en.wikipedia.org/wiki/Security_through_obscurity
++
+https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle
++
+https://stackoverflow.com/questions/533965/why-is-security-through-obscurity-a-bad-idea
++
+Security by obscurity does not work. If that is all Stack Overflow relies on, and that is what it looks like, then it is guaranteed to be flawed and already been attacked. 
++
+That is one of the reasons that my website will eventually beat Stack Overflow: https://github.com/cirosantilli/write-free-science-books-to-get-famous-website/tree/d77b18d2e7acb3558615797c36195f60dfd26306#pagerank-with-tags
+. If you had messaged me and told me "take down or suspend" I would have done it immediately because I understand the meaning of political power.
++
+That would have been the better course of action for everyone: I get no block, and you get no bad publicity as I shout Kerckhoff's principle on Twitter.
++
+But maybe it is a good thing that people learn more about that.
+. Is there an existing public discussion saying that you cannot advertise vote fraud tools on this website?
++
+If not, can you please create that meta thread as a reference for future users, and perhaps let the community decide by itself?
++
+In particular, will you still suspend me if I don't take down the GitHub repo?
++
+Because if not, does it make any sense to prevent it from being mentioned in Stack Overflow? Any good GitHub repo just gets enough Google pagerank that it won't matter.
++
+And if yes, nothing prevents me from re-uploading on an anonymous account.
+____
