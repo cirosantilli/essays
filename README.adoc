@@ -68,6 +68,42 @@ I just don't use it much because of ecosystem / unfamiliarity.
 * Swift: I'm not an Apple person.
 * Tcl, Perl: I'm not old enough for that, Python killed them before I awoke to programming. And I'm glad, Python feels less insane from my little exposure.
 
+Last update: 2019-03
+
+=== Moving from markdown to asciidoc
+
+Coming from markdown, I've fallen in love with AsciiDoc for anything that has considerable size, around 2018-02 https://github.com/cirosantilli/linux-kernel-module-cheat/commit/254c8bf42e57bb54a715f151ec31b4c87a119faa
+
+AsciiDoc It takes markdown, and adds just enough to write serious books, while still reducing some markdown annoyances.
+
+Oh, and after I was converted, I found out that Buildroot, which is a project I love, also uses it: link:https://buildroot.org/downloads/manual/manual.html[]. How I found it out: "Hey, their docs are perfect, they can't be using AsciiDoc, can they? (greps source) Oh, AsciiDoc!!!".
+
+Reasons:
+
+* Table of Contents. Table of Contents. Table of Contents. One page. Ctrl+F finds everything. `sed` refactors everything. No GitHub Pages faff. Focused PageRank. ToC. ToC. ToC. https://github.com/isaacs/github/issues/215
+* you can link to headers, gives headers custom IDs independent of text, and with `asciidoctor -v` get a warning for broken links
+* include directives, if your document gets really humongous. TODO: header resolution not decent across documents yet: 
+* you can do everything without indentation, which is hard to type on browser boxes. Nested lists and code blocks notably. GitHub even added the triple backticks block code extension syntax because of that!
+* `link::mycode.c[]` instead of `[mycode.c](mycode.c)`, less duplication
+
+Like any love, it is not perfect:
+
+* escaping stuff is painful. Backslash doesn't work...
+** `C++`
+**  inline code: https://github.com/asciidoctor/asciidoctor/issues/2582
+* GitHub uses it's own default header ID calculation mechanism, which can get out of sync with your local version: https://github.com/asciidoctor/asciidoctor/issues/3093
+
+but the thorns add to the thrill.
+
+Wishlist:
+
+* https://github.com/asciidoctor/asciidoctor/issues/3148 Allows setting ID prefix blocks under any header with automatic resolution from inside the header
+* https://github.com/asciidoctor/asciidoctor/issues/3147 Warn on automatically generated ID duplicates
+
+Ciro s2 adoc 2018.
+
+Last update: 2019-03
+
 == Stack Overflow
 
 === Stack Overflow answer style guide
