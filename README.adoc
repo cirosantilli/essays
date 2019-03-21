@@ -80,7 +80,7 @@ Oh, and after I was converted, I found out that Buildroot, which is a project I 
 
 Reasons:
 
-* Table of Contents. Table of Contents. Table of Contents. One page. Ctrl+F finds everything. `sed` refactors everything. No GitHub Pages faff. Focused PageRank. ToC. ToC. ToC. https://github.com/isaacs/github/issues/215
+* Table of Contents. Table of Contents. Table of Contents. One page. Ctrl+F finds everything. `sed` refactors everything. No GitHub Pages faff: page formatting effort, broken builds on forced dependency updates, non-immediate updates. Focused PageRank. ToC. ToC. ToC. https://github.com/isaacs/github/issues/215
 * you can link to headers, gives headers custom IDs independent of text, and with `asciidoctor -v` get a warning for broken links
 * include directives, if your document gets really humongous. TODO: header resolution not decent across documents yet: 
 * you can do everything without indentation, which is hard to type on browser boxes. Nested lists and code blocks notably. GitHub even added the triple backticks block code extension syntax because of that!
@@ -110,7 +110,7 @@ Last update: 2019-03
 
 link:stack-overflow-answer-style-guide.md[]
 
-=== Stack Overflow suspension 2019-03-20
+=== Stack Overflow suspension for vote fraud script 2019-03-20
 
 After I got a lot of attention on Hacker News https://news.ycombinator.com/item?id=19428700 my Stack Overflow account was suspended for 3 days http://web.archive.org/web/20190320163458/https://stackoverflow.com/users/895245/ciro-santilli-新疆改造中心-六四事件-法轮功 and I received a magic notification that led to a private message:
 
@@ -167,7 +167,7 @@ ____
 
 https://twitter.com/cirosantilli/status/1108413211840339970
 
-Reply and unsuspend quickly followed:
+Reply and unsuspend quickly followed, with link still removed:
 
 ____
 I suspended you to get your attention. Your attitude about going to Twitter about it does not bode well with me.
@@ -184,3 +184,5 @@ Regards,
 
 Stack Overflow Moderation Team
 ____
+
+A meta thread was later created by Yvette, to which I answered with the correct unpopular answer that will be downvoted to oblivion: https://meta.stackoverflow.com/questions/381577/is-it-ok-to-have-links-on-how-to-create-sock-puppets-and-gain-rep-fraudulently-i/381635#381635
