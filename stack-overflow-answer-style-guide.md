@@ -1,6 +1,8 @@
 # Stack Overflow answer style guide
 
-When this gets good enough, post at: https://meta.stackexchange.com/questions/18614/style-guide-for-questions-and-answers
+Posted at: https://meta.stackexchange.com/questions/18614/style-guide-for-questions-and-answers/326746#326746
+
+Here I describe my answer style that has gradually evolved trough the years. I decided to write it down as it solidified and as I noticed some patterns.
 
 **Markdown generics**
 
