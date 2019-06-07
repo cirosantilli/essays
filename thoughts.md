@@ -1,5 +1,23 @@
 # Thoughts
 
+I can't believe I've posted this on Facebook!!! https://www.facebook.com/cirosantilli/posts/128228673862284 Was reminded by a do you want to share it thingy. It's from when I started dating my wife and we were fighting:
+
+    Theorem 1.1 (Love sucks).
+
+    Let P(A L B)
+    be the probability that person A loves person B and h(A) be the
+    measure of happiness of person A
+
+    Then:
+
+    P( h(A) = 0) = 1 - P(A L B)
+    P( h(A) = -1) = P(A L B)[ 1 - P(B L A) ]
+    P( h(A) = 1) = P(A L B)P(B L A)
+
+    Since P(A L B) = P(B L A) ~ 0, average(h) < 0
+
+Just look at those comments as well. I remember those days at Polytechnique, I wouldn't do anything during weekends, just learn Chinese, maths and physics and think deeply about the world in my little studio.
+
 I've been watching some climbing videos, like Free Solo movie 2019. After one of them, I was checking my Stack Overflow as I do obsessively, and had a mini-epiphany: this is my wall. The wall of answers. And I strive to climb it. But it is a small wall. The big wall, is yet to be climbed: the wall of the stupidity of our educational system.
 
 I love it when I'm compiling something in the evening and my cooler is making rain-like sounds. Feels like s like I'm being productive without actual effort, and reminds me of the relaxing rain sounds. And the lack of sound informs me that the compilation has finished, and the I can continue to the next step.
