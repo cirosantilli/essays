@@ -9,7 +9,7 @@
 :toclevels: 6
 :toc-title:
 
-Original writings and quirky thoughts by me. People might like reading this once I become world famous for something.
+Original writings and quirky thoughts by me. People might like reading this once I become world famous for something. The best of this content has / will be moved to https://cirosantilli.com
 
 toc::[]
 
@@ -29,7 +29,6 @@ toc::[]
 . Poetic
 .. link:four-treasures-of-the-hacker.md[The Four Treasures of the Hacker]
 .. link:people-know-the-best.md[People know the best]
-.. link:quotes.md[Quotes]
 . Philosophy
 .. link:thoughts.md[Thoughts]
 .. link:my-personality.md[My personality]

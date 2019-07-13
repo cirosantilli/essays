@@ -28,8 +28,6 @@ A home is the reaction vessel of men. Like a cell, it has many subsystems: energ
 
 "What you are afraid to do is a clear indication of the next thing you need to do." by https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson really resonated with me... E.g. I wanted to study Physics at university, by chickened out because I was afraid I wouldn't get a job. Later on in life, I always felt I missed the deeper physics and mathematics background, just for the beauty of it. Of course, it is impossible to say how things would have gone had I done that, and they did go really well regardless since I started programming, just I felt it took more time than necessary.
 
-Europe is becoming weak because the countries are too small, US and China companies will always eat up the best European ones: https://www.economist.com/europe/2018/10/13/europes-history-explains-why-it-will-never-produce-a-google There is only one solution: everyone must speak English. All school and university courses must be given in English. This will never happen, and Europe will continue to decay :-)
-
 Interest if formed through habit, through seeing that your peers are interested in something on a daily basis. I see that clearly in my job, where being close to people's needs inspired me to learn and do a lot of things I would never had heard of otherwise. This is why a vibrant tech community is so key to one's development, you just go along. In that sense, individual events are not very important. What truly matters is being able to see continuous interest of peers through Q&A websites, paper contributions, software contributions, etc.
 
 The natural sciences are not just a tool to predict the future. They are a reminder that the lives that we live are mere illusions, just like Buddhists say. We know nothing about the materials that we touch every day, nor more importantly how our brain and cells work. Everything is out of our control. The natural sciences make us peek into a little of those unknowns, and blow our minds as we notice that we don't know anything. Today I've been elated by that thought.
@@ -79,3 +77,9 @@ Financial institutions make a lot of money. As a consequence, they adopt new tec
 There is a close link between disruptive tech, and the desire to find bugs / exploits in systems. Both of them destabilize enterprises. Woz and Jobs started like that: https://en.wikipedia.org/wiki/Blue_box
 
 Turing completeness is enough for mathematicians. Humans however need "runs Debian".
+
+Science is the reverse engineering of nature.
+
+Media for humans is not byte streams. It is magic (the effect of watching a video / image / audio).
+
+Sometimes, even if our end goals are too far, the side effects of trying to reach them can have meaningful impact. -- Teacher R.
