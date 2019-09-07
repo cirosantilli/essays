@@ -30,8 +30,6 @@ A home is the reaction vessel of men. Like a cell, it has many subsystems: energ
 
 Interest if formed through habit, through seeing that your peers are interested in something on a daily basis. I see that clearly in my job, where being close to people's needs inspired me to learn and do a lot of things I would never had heard of otherwise. This is why a vibrant tech community is so key to one's development, you just go along. In that sense, individual events are not very important. What truly matters is being able to see continuous interest of peers through Q&A websites, paper contributions, software contributions, etc.
 
-The natural sciences are not just a tool to predict the future. They are a reminder that the lives that we live are mere illusions, just like Buddhists say. We know nothing about the materials that we touch every day, nor more importantly how our brain and cells work. Everything is out of our control. The natural sciences make us peek into a little of those unknowns, and blow our minds as we notice that we don't know anything. Today I've been elated by that thought.
-
 Life is too short for closed source.
 
 Molecular biology is a lot like embedded systems:
@@ -58,8 +56,6 @@ It's fun being at ARM. I look up some public information, then have an unanswere
 
 Being in a stable relationship, but living separately and in the same time zone is the optimal way to work more (while at ARM Cambridge UK, fiancee in Paris)
 
-Short thoughts which I had and amused me for a few seconds.
-
 Having to fill those ugly .docx forms for enterprises makes me sick. Huge turnoff. Almost certain that they won't understand what you want you know, and what you want to do. Talking to someone is the only way for they to understand what you want to do.
 
 Love watching my colleagues freely mixing French and Arab every 2 sentences when talking to their personal friends.
@@ -74,12 +70,8 @@ Why do countries with the term "Democratic" or related on their official name, t
 
 Financial institutions make a lot of money. As a consequence, they adopt new technologies very quickly. The very contrary of educational institutions.
 
-There is a close link between disruptive tech, and the desire to find bugs / exploits in systems. Both of them destabilize enterprises. Woz and Jobs started like that: https://en.wikipedia.org/wiki/Blue_box
-
 Turing completeness is enough for mathematicians. Humans however need "runs Debian".
 
 Science is the reverse engineering of nature.
 
 Media for humans is not byte streams. It is magic (the effect of watching a video / image / audio).
-
-Sometimes, even if our end goals are too far, the side effects of trying to reach them can have meaningful impact. -- Teacher R.
