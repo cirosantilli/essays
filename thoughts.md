@@ -30,8 +30,6 @@ A home is the reaction vessel of men. Like a cell, it has many subsystems: energ
 
 Interest if formed through habit, through seeing that your peers are interested in something on a daily basis. I see that clearly in my job, where being close to people's needs inspired me to learn and do a lot of things I would never had heard of otherwise. This is why a vibrant tech community is so key to one's development, you just go along. In that sense, individual events are not very important. What truly matters is being able to see continuous interest of peers through Q&A websites, paper contributions, software contributions, etc.
 
-Life is too short for closed source.
-
 Molecular biology is a lot like embedded systems:
 
 - small, complex, low observability
@@ -42,13 +40,9 @@ By self or people I know.
 
 Every problem is trivial given enough observability. Inspiration: programming with debugging, lack of data in natural sciences. Counter argument: economy. Counter counter argument: simple but large state and chaotic.
 
-Everything software is open source when you write assembly code. By P.
-
 I live on the software hardware interface.
 
 I like working in a good train with power charger, no trip companions, and not much shaking. Internet helps, but is optional. Done some hardcore C stuff in them. No distractions. Just you and the source.
-
-Chuck Norris can parse pseudocode. (After my colleague was doing that in a project.)
 
 If a product of a big company has a name that is too catchy, it is an acquisition. Otherwise, the name would be just "Big Company Product Description".
 
@@ -64,14 +58,4 @@ To succeed in creation: be half action, half planing. (2014-03, while developing
 
 We all need a spice of madness to take on the madness that is the world.
 
-Without technology, one cannot survive. Without art, one cannot live.
-
 Why do countries with the term "Democratic" or related on their official name, tend to be the least democratic? **People**'s Republic of China, "**Democratic** Republic of Congo".
-
-Financial institutions make a lot of money. As a consequence, they adopt new technologies very quickly. The very contrary of educational institutions.
-
-Turing completeness is enough for mathematicians. Humans however need "runs Debian".
-
-Science is the reverse engineering of nature.
-
-Media for humans is not byte streams. It is magic (the effect of watching a video / image / audio).
