@@ -19,7 +19,6 @@ toc::[]
 .. link:inspire-teenagers-for-technology.md[Inspire teenagers for technology]
 .. link:day-in-pompeii.md[A day in Pompeii]
 .. link:open-sourcer-meets-b2b.md[Open Sourcer meets B2B]
-. link:replace-mailing-lists-with-bug-trackers.md[Replace mailing lists with bug trackers]
 . Learning
 .. link:how-to-learn-anything.md[How to learn anything]
 .. link:how-to-become-a-good-programmer.md[How to become a good programmer]
